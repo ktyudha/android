@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Konverter Suhu</string>
+    <string name="hello">Isilah suhu pada kolom Dibawah</string>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="celcius">ke Celcius</string>
+    <string name="fahrenheit">ke Fahrenheit</string>
+    <string name="calc">Konversi</string>
+</resources>
